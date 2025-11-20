@@ -1,0 +1,8 @@
+{
+  "name": "FlashMeet",
+  "description": "Instant, secure, peer-to-peer video calling and screen sharing application. No login required.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
